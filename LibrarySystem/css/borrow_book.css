@@ -1,0 +1,23 @@
+label {
+    color: #87CEEB;
+}
+
+input[type="date"],
+input[type="number"] {
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.2);
+    color: #e6e6e6;
+}
+
+button[type="submit"] {
+    padding: 10px;
+    background-color: #87CEEB;
+    color: #1a1a2e;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}

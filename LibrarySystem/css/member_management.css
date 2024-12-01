@@ -1,0 +1,41 @@
+form {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 15px;
+    backdrop-filter: blur(5px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    color: #f9c1d9;
+    margin-top: 20px;
+    text-align: center;
+}
+
+hr {
+    border: none;
+    height: 2px; 
+    background-color: #0072ff; 
+    margin: 30px 0; 
+    box-shadow: 0 4px 6px rgba(0, 114, 255, 0.3); 
+}
+
+
+input[type="text"],
+input[type="number"] {
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.2);
+
+}
+
+button {
+    background-color: #87CEEB;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
