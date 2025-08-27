@@ -46,26 +46,6 @@ It allows managing books, students, and borrowing/returning activities in a basi
 
 ---
 
-## Project Structure (example)
-
-Simple-Library-System/
-├── index.php        # Homepage / Dashboard
-├── addBook.php      # Add new books
-├── viewBooks.php    # List all books
-├── issueBook.php    # Issue a book to a student
-├── returnBook.php   # Handle book returns
-├── db.php           # Database connection
-├── library.sql      # Database schema
-└── assets/          # CSS / images
-
----
-
-## Screenshots (optional)
-
-Add screenshots of the UI here to make it more appealing.
-
----
-
 ## Future Improvements
 
 - Add user authentication (Admin/Student login)  
