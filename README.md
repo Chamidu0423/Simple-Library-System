@@ -27,22 +27,27 @@ It allows managing books, students, and borrowing/returning activities in a basi
 ## Installation & Setup
 
 1. Clone the repository:
+```
    git clone https://github.com/Chamidu0423/Simple-Library-System.git
    cd Simple-Library-System
+```
 
-2. Import the database:
+3. Import the database:
    - Open phpMyAdmin (or any MySQL client).
    - Create a new database (e.g., library_system).
    - Import the provided library.sql file.
 
-3. Configure the database connection:
+4. Configure the database connection:
    - Open db.php (or your connection file).
    - Update credentials (host, username, password, dbname) to match your local setup.
 
-4. Run the project:
+5. Run the project:
    - Place the project in your local server directory (htdocs for XAMPP, www for WAMP, etc.).
    - Start Apache & MySQL.
-   - Visit: http://localhost/Simple-Library-System
+   - Visit:
+```
+     http://localhost/Simple-Library-System
+```
 
 ---
 
