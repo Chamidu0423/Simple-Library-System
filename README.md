@@ -34,7 +34,7 @@ It allows managing books, students, and borrowing/returning activities in a basi
 
 3. Import the database:
    - Open phpMyAdmin (or any MySQL client).
-   - Create a new database (e.g., library_system).
+   - Create a new database (e.g: library_system).
    - Import the provided library.sql file.
 
 4. Configure the database connection:
