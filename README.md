@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chamidu Dilshan</h1>
+<h1 align="center">Hi, I'm Chamidu Dilshan</h1>
 <h3 align="center">I'm a second-year software engineering student.</h3>
 
 - 🌱 I’m currently learning **Software Development**
